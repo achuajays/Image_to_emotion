@@ -16,9 +16,9 @@ Before running the application, make sure you have the following dependencies in
 
 You can install them using pip:
 
-**```bash
+```bash
 pip install transformers torch paddleocr streamlit
-```**
+```
 
 ## Usage
 
@@ -34,10 +34,17 @@ git clone https://github.com/achuajays/Image_to_emotion.git
 cd Image_to_emotion
 ```
 
-3. **Run the Streamlit app:**
+
+3. **Install requirements.txt**
 
 ```bash
-streamlit run app.py
+pip install requiremnets.txt
+```
+
+4. **Run the Streamlit app:**
+
+```bash
+streamlit run main.py
 ```
 
    This will open a new tab in your web browser with the Streamlit app running. You can then use the file uploader to upload an image and see the emotions expressed in the text within the image.
