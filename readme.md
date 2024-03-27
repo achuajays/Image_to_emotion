@@ -22,23 +22,23 @@ pip install transformers torch paddleocr streamlit
 
 ## Usage
 
-1. **Clone the repository:**
+1. Clone the repository:
 
-**```bash
+```bash
 git clone https://github.com/achuajays/Image_to_emotion.git
-```**
+```
 
 2. **Navigate to the project directory:**
 
-**```bash
+```bash
 cd Image_to_emotion
-```**
+```
 
 3. **Run the Streamlit app:**
 
-**```bash
+```bash
 streamlit run app.py
-```**
+```
 
    This will open a new tab in your web browser with the Streamlit app running. You can then use the file uploader to upload an image and see the emotions expressed in the text within the image.
 
