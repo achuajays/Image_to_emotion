@@ -38,7 +38,7 @@ cd Image_to_emotion
 3. **Install requirements.txt**
 
 ```bash
-pip install requiremnets.txt
+pip install requiremenets.txt
 ```
 
 4. **Run the Streamlit app:**
